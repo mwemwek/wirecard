@@ -1,0 +1,8 @@
+{
+    "require": {
+        "php-curl-class/php-curl-class": "^8.6",
+        "swiftmailer/swiftmailer": "6.0",
+        "phpmailer/phpmailer": "^6.0",
+        "chuyskywalker/rolling-curl": "^3.1"
+    }
+}
